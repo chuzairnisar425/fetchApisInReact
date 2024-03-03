@@ -1,0 +1,13 @@
+.cards{
+  border: 2px solid black;
+  max-width: 30vw;
+background-color: azure;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+
+}
